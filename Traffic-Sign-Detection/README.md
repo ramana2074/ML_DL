@@ -36,6 +36,3 @@ I have used German Traffic Sign Recognition Benchmark Dataset or _GTSRB_, it can
 The [Jupyter Notebook](trafffic_sign_detection.ipynb) should be referred for the Usage guidelines, while the Python
 [script](traffic_sign_detection.py) for a better understanding of documentation.
 
-## Author
-
-This Script has been prepared by [Vybhav Chaturvedi](https://github.com/vybhav72954)
