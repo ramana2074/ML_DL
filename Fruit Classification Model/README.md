@@ -50,5 +50,3 @@ After training, the model's performance is evaluated, and results such as accura
 Enhance the model by tuning hyperparameters.
 Use more advanced architectures such as ResNet or EfficientNet.
 Explore transfer learning to improve classification performance on small datasets.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
